@@ -21,7 +21,7 @@ const CardComponent = styled.section`
     color: #8d92df;
   }
   a:hover,
-  a:active {
+  a:active {  
     color: #61dafb;
   }
 `

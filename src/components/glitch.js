@@ -7,7 +7,7 @@ const Img = styled.img`
     display: none;
   }
 `
-
+  
 const Glitch = props => {
   const parallaxRef = useRef(null)
 

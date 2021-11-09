@@ -12,7 +12,7 @@ module.exports = {
         trackingId: "UA-3631048-10",
       },
     },
-    {
+    { 
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,

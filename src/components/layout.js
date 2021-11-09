@@ -25,7 +25,7 @@ const Styled = createGlobalStyle`
       box-sizing: border-box;
     }
   } 
-
+  
   footer {
     text-align: center;
     color: #130f41;

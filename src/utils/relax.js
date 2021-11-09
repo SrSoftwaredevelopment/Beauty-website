@@ -6,3 +6,4 @@ export function applyParallax(el, options) {
     new Rellax(el, options)
   }
 }
+	

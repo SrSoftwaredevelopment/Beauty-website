@@ -7,5 +7,5 @@ const Icon = props => (
     <circle cx={42} cy={6} r={6} fill="#62C554" />
   </svg>
 )
-
+	
 export default Icon

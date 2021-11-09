@@ -12,7 +12,7 @@ const IllustrationContainer = styled.section`
     height: auto;
   }
 `
-
+  
 const Illustration = props => (
   <IllustrationContainer style={{ position: "relative" }}>
     <Glitch

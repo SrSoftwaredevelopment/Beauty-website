@@ -24,7 +24,7 @@ const MainIllustration = styled(Illustration)`
   max-width: 100%;
   margin: auto;
   display: block;
-  height: auto;
+  height: auto; 
 `
 
 const ImageGrid = styled.ul`

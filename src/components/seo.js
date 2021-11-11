@@ -39,6 +39,10 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
         {
+          property: `og:cart`,
+          content: Shopcart,
+        },        
+        {
           property: `og:type`,
           content: `website`,
         },
